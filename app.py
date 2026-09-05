@@ -2,6 +2,7 @@ import os
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DB_PATH = os.path.join(BASE_DIR, "sra_data.db")
+ROSTER_PATH = os.path.join(BASE_DIR, "rosters_2026.json")
 
 import json
 
@@ -96,9 +97,9 @@ MATCHWEEK_1_ABSENCES = {
 }
 
 def get_team_roster(team_name, absentees=None):
-    if not os.path.exists("rosters_2026.json"):
+    if not os.path.exists(ROSTER_PATH):
         return {"starters": [], "subs": []}
-    with open("rosters_2026.json", "r", encoding="utf-8") as f:
+    with open(ROSTER_PATH, "r", encoding="utf-8") as f:
         rosters = json.load(f)
         
     normalized_map = {normalize_team_name(k): v for k, v in rosters.items()}
