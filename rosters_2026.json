@@ -1,0 +1,3087 @@
+{
+  "AC Milan": [
+    {
+      "name": "Pietro Terracciano",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Mike Maignan",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Lorenzo Torriani",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Léo-Paul Bouyer",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Pervis Estupiñán",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Fikayo Tomori",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Matteo Gabbia",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Strahinja Pavlovic",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Filippo Terracciano",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Koni De Winter",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Mario Gila",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Davide Bartesaghi",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Sankhoun Diawara",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Valeri Vladimirov",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Luka Modric",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Adrien Rabiot",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Ruben Loftus-Cheek",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Christian Pulisic",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Ardon Jashari",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Yunus Musah",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Alphadjo Cissè",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Christian Comotto",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Samuel Chukwueze",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Alexis Saelemaekers",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Gonçalo Ramos",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Omari Hutchinson",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Diego Moreira",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Francesco Camarda",
+      "pos": "F",
+      "position_name": "Forward"
+    }
+  ],
+  "AS Roma": [
+    {
+      "name": "Pierluigi Gollini",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Devis Vásquez",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Mile Svilar",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Giorgio De Marzi",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Alessio Marcaccini",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Nahuel Molina",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Gianluca Mancini",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Mario Hermoso",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Evan Ndicka",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Leonardo Balerdi",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Anass Salah-Eddine",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Devyne Rensch",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Wesley",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Konstantinos Koulierakis",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Daniele Ghilardi",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Emanuele Lulli",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Marten de Roon",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Bryan Cristante",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Lorenzo Pellegrini",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Manu Koné",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Niccolò Pisilli",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Rodrigo Mora",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Paulo Dybala",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Santiago Castro",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Donyell Malen",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Matìas Soulè",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Antonio Arena",
+      "pos": "F",
+      "position_name": "Forward"
+    }
+  ],
+  "Atalanta": [
+    {
+      "name": "Francesco Rossi",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Marco Sportiello",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Marco Carnesecchi",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Thomas Pompei",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Thomas Kristensen",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Sead Kolasinac",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Davide Zappacosta",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Raoul Bellanova",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Odilon Kossounou",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Lorenzo Bernasconi",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Giorgio Scalvini",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Isak Hien",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Matteo Plaia",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Relja Obric",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Mario Pasalic",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Franck Kessié",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Eljif Elmas",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Gianluca Gaetano",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Éderson",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Nicola Zalewski",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Lazar Samardzic",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Alberto Manzoni",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Sergej Levak",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Jon Rowe",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Gianluca Scamacca",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Nikola Krstovic",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Giacomo Raspadori",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Charles De Ketelaere",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Kamaldeen Sulemana",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Tommaso De Nipoti",
+      "pos": "F",
+      "position_name": "Forward"
+    }
+  ],
+  "Bologna": [
+    {
+      "name": "Lukasz Skorupski",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Massimo Pessina",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Ukko Happonen",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Lorenzo De Silvestri",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Nicolo Casale",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Juan Miranda",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Torbjørn Heggem",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Emil Holm",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Nadir Zortea",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Arthur Theate",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Martin Vitík",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Rahim Alhassane",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Eivind Helland",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Lewis Ferguson",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Nikola Moro",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Tommaso Pobega",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Oussama El Azzouzi",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Mikel Amondarain",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Marco Libra",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Federico Bernardeschi",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Artem Dovbyk",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Riccardo Orsolini",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Jens Odgaard",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Roberto Piccoli",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Nicolò Cambiaghi",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Jay Enem",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Samuel Mbangula",
+      "pos": "F",
+      "position_name": "Forward"
+    }
+  ],
+  "Cagliari": [
+    {
+      "name": "Boris Radunovic",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Elia Caprile",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Alen Sherri",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Yerry Mina",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Yukinari Sugawara",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Giuseppe Aurelio",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Adam Obert",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Zé Pedro",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Raphael Kofler",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Juan Rodríguez",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Riyad Idrissi",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Alessandro Romano",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Alessandro Deiola",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Roberto Gagliardini",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Harry Winks",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Michel Adopo",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Jacopo Fazzini",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Yanis Massolin",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Demi Akarakiri",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Joseph Liteta",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Ivan Sulev",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Nicola Grandu",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "M'Bala Nzola",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Mattia Felici",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Daniel Maldini",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Kevin Carlos",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Riccardo Ciervo",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Alieu Fadera",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Alessandro Sugamele",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Yael Trepy",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Paul Mendy",
+      "pos": "F",
+      "position_name": "Forward"
+    }
+  ],
+  "Como": [
+    {
+      "name": "Robert Sánchez",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Mauro Vigorito",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Jean Butez",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Marc-Oliver Kempf",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Edoardo Goldaniga",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Álex Valle",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Trevoh Chalobah",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Alberto Dossena",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Yan Couto",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Kaiki",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Ivan Smolcic",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Willy Kambwala",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Jacobo Ramón",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Luis Milla",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Maxence Caqueret",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Samuele Ricci",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Lucas Da Cunha",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Máximo Perrone",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Martin Baturina",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Nico Paz",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Adrian Lahdo",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Mattia Liberali",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Riccardo Cassano",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Moise Kean",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Anastasios Douvikas",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Jayden Addai",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Assane Diao",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Jesús Rodriguez",
+      "pos": "F",
+      "position_name": "Forward"
+    }
+  ],
+  "Fiorentina": [
+    {
+      "name": "David de Gea",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Luca Lezzerini",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Oliver Christensen",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "João Mário",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Dodô",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Marin Pongracic",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Luca Ranieri",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Fabiano Parisi",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Radu Dragusin",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Viery",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Álex Jiménez",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Víctor Valdepeñas",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Pedro Gonçalves",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Marco Brescianini",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Nicolò Fagioli",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Arthur Atta",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Cher Ndour",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Christ Inao Oulaï",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Antonio Pirrò",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Sulayman Jallow",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Beto",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Wilfried Gnonto",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Mateo Pellegrino",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Alieu Njie",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Franco Mastantuono",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Federico Croci",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Brando Mazzeo",
+      "pos": "F",
+      "position_name": "Forward"
+    }
+  ],
+  "Frosinone": [
+    {
+      "name": "Matteo Pisseri",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Sebastiano Desplanches",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Lorenzo Palmisani",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Kevin Akpoguma",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Aleksa Terzic",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Ilario Monterisi",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Anthony Oyono",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Wisdom Amey",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Giorgio Cittadini",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Enzo Tchato",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Gabriele Bracaglia",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Gabriele Calvani",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Omar Fayed",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Florian Grillitsch",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Giacomo Calo",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Romano Schmid",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Ben Lhassine Kone",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Francesco Gelli",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Anouar El Azzouzi",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Patrizio Masini",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Luis Hasa",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Matteo Cichella",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Alessio Zerbin",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Tomas Bobcek",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Antonio Raimondo",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Daniel Birligea",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Seydou Fini",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Farès Ghedjemis",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Giorgi Kvernadze",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Alejandro Cichero",
+      "pos": "F",
+      "position_name": "Forward"
+    }
+  ],
+  "Genoa": [
+    {
+      "name": "Justin Bijlow",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Daniele Sommariva",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Franz Stolz",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Stefano Sabelli",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Kingsley Ehizibue",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Johan Vásquez",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Cody Drameh",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Leo Østigard",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Mario Mitaj",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Sebastian Otoa",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Alessandro Marcandalli",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "David Puczka",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Mamedi Doucouré",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Lukas Klisys",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Marcelo Vaz",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Djibril Sow",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Hamed Traoré",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Morten Frendrup",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Tommaso Baldanzi",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Mikael Ellertsson",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Alexsandro Amorim",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Ethan Meichtry",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Samuel Wiafe",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Stephan El Shaarawy",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Junior Messias",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Milutin Osmajic",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Lorenzo Colombo",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Elias Havel",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Lorenzo Venturino",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Joi Nuredini",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Vitinha",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Robinho Junior",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Adam Žulevič",
+      "pos": "F",
+      "position_name": "Forward"
+    }
+  ],
+  "Internazionale": [
+    {
+      "name": "Raffaele Di Gennaro",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Ivan Provedel",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Josep Martínez",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "John Stones",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Federico Dimarco",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Manuel Akanji",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Benjamin Pavard",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Alessandro Bastoni",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Yann Bisseck",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Djed Spence",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Carlos Augusto",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Leonardo Bovio",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Henrikh Mkhitaryan",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Hakan Çalhanoglu",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Piotr Zielinski",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Curtis Jones",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Nicolò Barella",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Aleksandar Stankovic",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Andy Diouf",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Petar Sucic",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Mattia Marello",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Marcus Thuram",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Lautaro Martínez",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Luis Henrique",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Ange-Yoan Bonny",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Pio Esposito",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Mattia Mosconi",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Jamal Iddrissou",
+      "pos": "F",
+      "position_name": "Forward"
+    }
+  ],
+  "Juventus": [
+    {
+      "name": "Carlo Pinsoglio",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Guglielmo Vicario",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Kamil Grabara",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Riccardo Radu",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Juan Cabal",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Daniele Rugani",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Jhon Lucumí",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Lloyd Kelly",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Bremer",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Zeki Çelik",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Pierre Kalulu",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Andrea Cambiaso",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Federico Gatti",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Manuel Locatelli",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Weston McKennie",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Teun Koopmeiners",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Khéphren Thuram",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Pape Matar Sarr",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Douglas Luiz",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Nico González",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Arkadiusz Milik",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Jérémie Boga",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Randal Kolo Muani",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Edon Zhegrova",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Nick Woltemade",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Francisco Conceição",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Kenan Yildiz",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Jeff Ekhator",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Kerim Alajbegovic",
+      "pos": "F",
+      "position_name": "Forward"
+    }
+  ],
+  "Lazio": [
+    {
+      "name": "Christos Mandas",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Alessio Furlanetto",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Davide Renzetti",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Edoardo Motta",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Patric",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Adam Marusic",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Alfonso Pedraza",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Danilho Doekhi",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Luca Pellegrini",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Nuno Tavares",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Josip Sutalo",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Romano Floriani",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Oliver Provstgaard",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Filipe Bordon",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Ricardo Bordon",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Danilo Cataldi",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Mattia Zaccagni",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Manuel Lazzari",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Davide Frattesi",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Kenneth Taylor",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Nicolò Rovella",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Fisayo Dele-Bashiru",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Reda Belahyane",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Adrian Przyborek",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Valerio Farcomeni",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Bruno Galassi",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Albert Gudmundsson",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Andrea Pinamonti",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Gustav Isaksen",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Matteo Cancellieri",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Tijjani Noslin",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Federico Serra",
+      "pos": "F",
+      "position_name": "Forward"
+    }
+  ],
+  "Lecce": [
+    {
+      "name": "Wladimiro Falcone",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Marco Bleve",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Plamen Penev",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Christian Lupo",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Antonino Gallo",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Corrie Ndaba",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Jamil Siebert",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Kialonda Gaspar",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Danilo Veiga",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Gaby Jean",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Ali Dembélé",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Tiago Gabriel",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Elijah Scott",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Marlon Nnamdi Ubani",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Mohamed Kaba",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Lassana Coulibaly",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Youssef Maleh",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Ivan Ilic",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Sadik Fofana",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Omri Gandelman",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Oumar Ngom",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Medon Berisha",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Olaf Gorter",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Niko Kovac",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Willem Geubbels",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Konan N’Dri",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Santiago Pierotti",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Nikola Stulic",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Joel Monteiro",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Amar Ahmed",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Hjalte Morel Lærke",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Divine Onyemachi",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Francisco Esteban Sánchez",
+      "pos": "F",
+      "position_name": "Forward"
+    }
+  ],
+  "Monza": [
+    {
+      "name": "Demba Thiam",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Noel Törnqvist",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Aljaz Strajnar",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Aleksandr Ballabio",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Samuele Birindelli",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Ricardo Mangas",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Valentin Antov",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Andrea Carboni",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Adam Bakoune",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Saba Goglichidze",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Jan Ziólkowski",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Lorenzo Lucchesi",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Eddy Kouadio",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Yvan Maye",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Matteo Pessina",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Idrissa Touré",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Michael Folorunsho",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Andrea Colpani",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Leonardo Colombo",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Ebenezer Akinsanmiro",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Manga Foe Ondoa",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Alessandro Berretta",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Mathis Mout",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Keita Baldé",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Patrick Ciurria",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Kevin Martins",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Dany Mota",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Patrick Cutrone",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Cyril Ngonge",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Exequiel Zeballos",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Omari Forson",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Jay Robinson",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Gustavo Varela",
+      "pos": "F",
+      "position_name": "Forward"
+    }
+  ],
+  "Napoli": [
+    {
+      "name": "Nikita Contini",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Alex Meret",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Vanja Milinkovic-Savic",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Claudio Pugliese",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Leonardo Spinazzola",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Giovanni Di Lorenzo",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Amir Rrahmani",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Mathías Olivera",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Alessandro Buongiorno",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Sam Beukema",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Benoît Badiashile",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Rafa Marín",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Costantino Favasuli",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Luca Marianucci",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Kevin De Bruyne",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Stanislav Lobotka",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Frank Anguissa",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Scott McTominay",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Billy Gilmour",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Antonio Vergara",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Matteo Politano",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "David Neres",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Noa Lang",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Lorenzo Lucca",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Rasmus Højlund",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Alisson Santos",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Giovane",
+      "pos": "F",
+      "position_name": "Forward"
+    }
+  ],
+  "Parma": [
+    {
+      "name": "Simone Ghidotti",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Edoardo Corvi",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Giovanni Daffara",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Gabriele Casentini",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Alessandro Mazzocchi",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Diego Carlos",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Emanuele Valeri",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Enrico Del Prato",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Lautaro Valenti",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Abdoulaye Ndiaye",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Franco Carboni",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Mariano Troilo",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Sascha Britschgi",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Karlo Pajsar",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Dominik Drobnic",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Vincent Sierro",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Adrián Bernabé",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Hans Nicolussi Caviglia",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Mandela Keita",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Giovanni Fabbian",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Christian Ordoñez",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Benjamin Cremaschi",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Abdou-Salam Konate",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Ousmane Diallo",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Pontus Almqvist",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "El Bilal Toure",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "José Romero",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Matija Frigan",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Nesta Elphege",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Thomás De Martis",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Simone Lontani",
+      "pos": "F",
+      "position_name": "Forward"
+    }
+  ],
+  "Sassuolo": [
+    {
+      "name": "Giacomo Satalino",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Arijanet Muric",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Stefano Turati",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Lorenzo Nyarko",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Duje Caleta-Car",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Jay Idzes",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Fali Candé",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Sebastian Walukiewicz",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Josh Doig",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Cas Odenthal",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Ignace van der Brempt",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Rafael Obrador",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Fedde Leysen",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Yeferson Paz",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Edoardo Pieragnolo",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Giorgio Vezzosi",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Nemanja Matic",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Kristian Thorstvedt",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Andrea Ghion",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Daniel Boloca",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Ismaël Koné",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Cristian Volpato",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Vasilije Adzic",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Sulemana",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Luca Lipani",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Darryl Bakola",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Simone Cinquegrano",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Domenico Berardi",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Nicholas Pierini",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Armand Laurienté",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Kieron Bowie",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Sebastiano Esposito",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Laurs Skjellerup",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Benjamín Domínguez",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Gabriel Kulla",
+      "pos": "F",
+      "position_name": "Forward"
+    }
+  ],
+  "Torino": [
+    {
+      "name": "Lucas Perri",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Franco Israel",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Lapo Siviero",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Diego Mascardi",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Francesco Cereser",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Ricardo Rodríguez",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Cristiano Biraghi",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Eray Cömert",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Adrian Ismajli",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Nathan Patterson",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Saúl Coco",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Rafik Belghali",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Pietro Comuzzo",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Niccolò Fortini",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Manuel Carrascosa Moreno",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Nikola Vlasic",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Rolando Mandragora",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Daniel Bragança",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Gaetano Oristanio",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Kian Fitz-Jim",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Emirhan Ilkhan",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Cesare Casadei",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Gvidas Gineitis",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Alessio Cacciamani",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Zalán Kugyela",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Andrea Ballanti",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Giovanni Simeone",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Duván Zapata",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Ché Adams",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Sandro Kulenovic",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Pietro Pellegri",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Zakaria Aboukhlal",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Andrea Luongo",
+      "pos": "F",
+      "position_name": "Forward"
+    }
+  ],
+  "Udinese": [
+    {
+      "name": "Daniele Padelli",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Bartosz Mrozek",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Maduka Okoye",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Edoardo Piana",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Christian Kabasele",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Hassane Kamara",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Mërgim Vojvoda",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Enzo Ebosse",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Oumar Solet",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Alessandro Zanoli",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Nicolò Bertola",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "James Abankwah",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Matteo Palma",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Sandi Lovric",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Jesper Karlström",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Nicolò Zaniolo",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Giorgi Chakvetadze",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Jurgen Ekkelenkamp",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Jakub Piotrowski",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Oier Zarraga",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Lennon Miller",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Juan David Arizala",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Unai Gómez",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "David Pejicic",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Keinan Davis",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Lazar Jovanovic",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Bayo Youssouf",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Idrissa Gueye",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Giulio Vinciati",
+      "pos": "F",
+      "position_name": "Forward"
+    }
+  ],
+  "Venezia": [
+    {
+      "name": "Matteo Grandi",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Lorenzo Montipò",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Alessio Pozzi",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Filip Stankovic",
+      "pos": "G",
+      "position_name": "Goalkeeper"
+    },
+    {
+      "name": "Juan Jesus",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Ridgeciano Haps",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Matías Moreno",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Marin Sverko",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Pasquale Mazzocchi",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Thierry Correia",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Armel Bella-Kotchap",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Bartol Franjic",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Redouane Halhal",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Joel Schingtienne",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Richie Sagrado",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Antoine Hainaut",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Calixte Ligue",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Rufai Mohammed",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Ale Gomes",
+      "pos": "D",
+      "position_name": "Defender"
+    },
+    {
+      "name": "Alfred Duncan",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Toma Basic",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Gianluca Busio",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Simon Sohm",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Thorir Johann Helgason",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Enrique Perez",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Simone Panada",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Lamine Dabo",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Matteo Dagasso",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Saad El Haddad",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Lorenzo Berardi",
+      "pos": "M",
+      "position_name": "Midfielder"
+    },
+    {
+      "name": "Lion Lauberbach",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "John Yeboah",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Andrea Adorante",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Akor Adams",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Albion Rrahmani",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Toni Fernández",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Kornel Lisman",
+      "pos": "F",
+      "position_name": "Forward"
+    },
+    {
+      "name": "Mohamed Malang Touré",
+      "pos": "F",
+      "position_name": "Forward"
+    }
+  ]
+}
