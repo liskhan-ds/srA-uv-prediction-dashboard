@@ -443,7 +443,7 @@ def run_pipeline():
                     actual_score_home, actual_score_away, actual_winner, is_correct
                 ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
                 """, (
-                    mid, round_label, h_team, a_team, date_raw[:10],
+                    mid, round_label, h_team, a_team, date_raw,
                     pred["home_wuv"]["team_wuv"], pred["away_wuv"]["team_wuv"], pred["h_total"], pred["a_total"],
                     pred["gap"], pred_winner, pred["p_home"], pred["p_draw"], pred["p_away"],
                     pred["sc_h"], pred["sc_a"],

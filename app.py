@@ -2438,10 +2438,24 @@ def load_data():
                 df_db["round_name"] = "Round 1 (Gameweek 1)"
             if "date" not in df_db.columns and "match_date" in df_db.columns:
                 df_db["date"] = df_db["match_date"]
-            if "uk_date" not in df_db.columns:
-                df_db["uk_date"] = df_db.get("date", df_db.get("match_date", "2026-08"))
-            if "kst_date" not in df_db.columns:
-                df_db["kst_date"] = df_db.get("date", df_db.get("match_date", "2026-08"))
+            def parse_row_dates(row):
+                mdate = row.get("match_date") or row.get("date")
+                try:
+                    dt = pd.to_datetime(mdate, utc=True)
+                    local_dt = dt.tz_convert("Europe/Rome")
+                    kst_dt = dt.tz_convert("Asia/Seoul")
+                    return pd.Series({
+                        "local_date": local_dt.strftime("%Y-%m-%d"),
+                        "kst_date": kst_dt.strftime("%Y-%m-%d")
+                    })
+                except Exception:
+                    s = str(mdate)[:10] if mdate else "2026-08-22"
+                    return pd.Series({"local_date": s, "kst_date": s})
+
+            dates_converted = df_db.apply(parse_row_dates, axis=1)
+            df_db["local_date"] = dates_converted["local_date"]
+            df_db["kst_date"] = dates_converted["kst_date"]
+            df_db["uk_date"] = df_db["local_date"]
             if "visit_team" not in df_db.columns and "away_team" in df_db.columns:
                 df_db["visit_team"] = df_db["away_team"]
             if "visit_uv" not in df_db.columns and "away_wuv" in df_db.columns:
@@ -2607,7 +2621,7 @@ if not filtered_df.empty:
     # Dashboard report dataframe
     display_df = pd.DataFrame()
     display_df['No.'] = filtered_df['day_no']
-    display_df['Match Date (UK)'] = filtered_df['uk_date']
+    display_df['Match Date (Local)'] = filtered_df['local_date']
     display_df['Match Date (KST)'] = filtered_df['kst_date']
     display_df['Home Team'] = filtered_df.apply(lambda r: f"{r['home_team']} ({r['home_total_wuv']:.2f} WUV)" if ('home_total_wuv' in r and pd.notna(r.get('home_total_wuv'))) else (f"{r['home_team']} ({r['home_uv']:.2f} WUV)" if pd.notna(r.get('home_uv')) else r['home_team']), axis=1)
     display_df['Away Team'] = filtered_df.apply(lambda r: f"{r['visit_team']} ({r['visit_uv']:.2f} WUV)" if pd.notna(r.get('visit_uv')) else r['visit_team'], axis=1)
